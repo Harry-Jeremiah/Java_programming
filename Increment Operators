@@ -23,6 +23,6 @@ Decrement Operators
 
 Shortcut Assignment Operators
 	x += y; same as x = x + y;
-	x -= y; x = x – y;
-	x *= y; x = x * y;
-	x /= y; x = x / y; 
+	x -= y; 	x = x – y;
+	x *= y; 	x = x * y;
+	x /= y; 	x = x / y; 

@@ -1,0 +1,55 @@
+			Arithmetic Operators
+
+Five Arithmetic Operators
+	• Addition +
+	• Subtraction -
+	• Multiplication *
+	• Division /
+	• Modulus %
+
+Modulus Example
+	• often called the remainder operator
+	• returns the remainder of a division
+		23 % 5 = 3
+		11 % 3 = 2
+
+	• to determine an even number
+		24 % 2 = 0
+		o 0 means an even number
+		o 1 means an odd number
+	• to determine the day of the week
+		(6 + 10) % 7 = 2
+		o 6 is Saturday (the seventh day of the week)
+		o in 10 days, the day of the week will be Tuesday (day 2)
+
+Integer Division
+	• when dividing two integers
+		o the result is an integer
+		o the fraction is truncated
+	• example:
+		int num = 5 / 3;
+		o num will equal 1
+	• to determine time
+		int seconds = 100;
+		int minutes = seconds / 60;
+		int remainingSeconds = seconds % 60;
+
+Order of Precedence
+	• the order that expressions are evaluated
+	• use BEDMAS
+		o Brackets
+		o Exponents
+
+	 Multiplication and Division
+		 from left to right
+	o Addition and Subtraction
+		 from left to right
+	• us parenthesis to avoid confusion
+
+	• examples
+		int num = 10 + 5 / 5;
+			 num is 11
+		int num = (10 + 5) / 5;
+			 num is 3
+		double digit = 10 + 5 / 5;
+			 digit is 11.0 

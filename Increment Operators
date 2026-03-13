@@ -1,0 +1,28 @@
+			Increment Operators
+
+Increment Operators
+	• increases the value of a variable by one
+	• has two forms
+
+		Postfix Form
+			x = 1;
+			y = x++ //y = 1, x = 2
+		Prefix Form
+			x = 1;
+			y = ++x //y = 2, x = 2
+
+Decrement Operators
+	• decreases the value of a variable by one
+	• has two forms
+		Postfix Form
+			x = 1;
+			y = x--; //y = 1, x = 0
+		Prefix Form
+			x = 1;
+			y = --x; //y = 0, x = 0
+
+Shortcut Assignment Operators
+	x += y; same as x = x + y;
+	x -= y; x = x – y;
+	x *= y; x = x * y;
+	x /= y; x = x / y; 

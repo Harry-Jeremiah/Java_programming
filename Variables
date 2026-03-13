@@ -1,0 +1,98 @@
+
+				Variables
+Variable
+	• represents a memory location that is holding a single piece of data
+	• in Java, variables have
+		o a name
+		o a type
+	o a value
+
+Variable Names
+	• can start with
+		o a letter ( a to z )
+		o an underscore ( _ )
+		o a dollar sign ( $ )
+	• cannot be a reserved word
+		o such as System, class
+	• cannot be special operation symbols
+	o such as +, -, %
+
+Variable Type
+	• the type of data held by the variable
+	• two main types:
+ 
+	primitive data type
+		o holds a single number or character
+ 
+	class data type
+		o holds a class reference (methods and data)
+		o will be discussed later in the course
+
+Primitive Data Type
+	• are built-in parts of Java
+	• eight primitive types (variables)
+		o for whole numbers
+		o for floating point numbers
+		o for binary decisions
+		o for unicode letters
+
+Variable Values
+	• for whole numbers
+		byte –128 to 127
+		short –32,768 to 32,767
+		int –2,147,483,648 to 2,147,483,647
+		long very large
+
+	• for decimal numbers
+		float accurate to seven decimal places
+		double accurate to fifteen decimal places
+	• for binary decisions
+		boolean true or false
+	• for characters
+		char any unicode letter
+	• unicode
+		o an encoding scheme
+		o established by the Unicode Consortium
+			www.unicode.org
+		o allows the use of characters from any language
+
+Variable Declarations
+	• used to create a variable
+		o specifies the type of data to be stored
+		o gives a name to a memory location
+		o assigns a value to the variable
+	• example:
+		int num = 10;
+	o is set up to hold an integer
+	o reserves a place in memory called num
+	o holds the integer value 10
+
+	• integer numbers:
+		int iNumber = 34;
+	• floating point:
+		double aDouble = 2.0;
+		float aFloat = 1.4f;
+	• boolean:
+		boolean isEmpty = true;
+		boolean isReady = false;
+	• char:
+		char aChar = ‘x’; note: single quotations
+	• can declare multiple variables in one line
+		int aDigit = 3, aNumber = 44;
+
+Constant Variable
+	• cannot be changed after a program is compiled
+	• to create use the final keyword
+	• the variable name is usually capitalized
+		final double RATE = 3.445;
+		RATE = 10; //Error
+
+Naming Convention
+	• the variable name
+	o is self-documenting and starts with a lower case letter
+		 int sales; vs int x;
+	o for 2 or more words the second and subsequent words can
+		 start with a capital letter
+			int totalSales
+		 separated by an underscore
+			int total_sales

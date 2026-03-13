@@ -1,7 +1,7 @@
 
 			Arithmetic Homework 
 
-1. Create a project called DemoArithmetic saved in Week 1 folder. 
+1. Create a project called DemoArithmetic. 
 2. Declare an integer called iModulus that is the remainder of 22 divided by 5. Print out iModulus 
 3. Declare a double called dModulus that is the remainder of 22 divided by 5. Print out dModulus, 
 4. Declare an integer called iDivide that is the quotient of 22 divided by 5. Print out iDivide, 

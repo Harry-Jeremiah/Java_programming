@@ -1,0 +1,17 @@
+			First Java Program
+
+1. Create a project called FirstProgram. 
+2. Have the program print out " Hello Fred' 
+3. What will happen if there is 
+	a. a missing semicolon 
+		i. syntax error -missing semicolon 
+	b. a missing bracket
+		i. syntax error - missing ")" 
+	c. misspelled keyword 
+	i. error- cannot resolve symbol (usually spelling error)
+4. What is the difference between print and println 
+	a. use print to print out "Bye Fred" 
+	b. use print to print out ""Hello Barney"
+5. Use print to print out "\t Using Tab" 
+6. Use print to print out "\n Using new line"
+

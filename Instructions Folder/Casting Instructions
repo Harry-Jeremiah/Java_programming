@@ -1,0 +1,18 @@
+			Casting Homework
+
+1. Create a proiect called DemoCast 
+2. Declare an integer called number set to 12 a. print out number
+3. Declare a double called digit set to 13.9 
+	a. print out digit 
+4. Try: number = digit 
+	a. error-type mismatch 
+5. Try: digit = number 
+	a. print out number and digit 
+6. Set digit to 5.7 
+	a. print out digit 
+7. Use casting to set number = digit
+	a. print out number and digit 
+8. Use casting to allow number = 1.9 
+	a. print out number 
+9. Declare an integer constant called NUM set to 5 
+

@@ -1,0 +1,15 @@
+
+			Arithmetic Homework 
+
+1. Create a project called DemoArithmetic. 
+2. Declare an integer called iModulus that is the remainder of 22 divided by 5. Print out iModulus 
+3. Declare a double called dModulus that is the remainder of 22 divided by 5. Print out dModulus, 
+4. Declare an integer called iDivide that is the quotient of 22 divided by 5. Print out iDivide, 
+5. Declare a double called dDivide that is the quotient of 22 divided by 5. Print out divide 
+6. Declare an integer called iDivision that is the quotient of 22.0 divided by 5. 
+	a. Error -type mismatch, cannot convert double into an integer 
+7. Declare a double called dDivision that is the quotient of 22.0 divided by 5. Print out dDivision 
+8. Declare a double called cDivision that is the quotient of 22 divided by 5, be sure to use casting to get the answer 4.4. Print out cDivision. 
+9. Declare an integer called total that is set to 12 + 12 / 12. Print out total. 
+10. Declare an integer called sum that is set to (12 + 12)/ 12. Print out sum.
+
